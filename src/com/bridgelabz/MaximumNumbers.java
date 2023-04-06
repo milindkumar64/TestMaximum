@@ -19,6 +19,5 @@ class MaximumNumber {
 		Float c = new Float(40.2);
 
 		System.out.println(maximum(a, b, c));
-
 	}
 }
